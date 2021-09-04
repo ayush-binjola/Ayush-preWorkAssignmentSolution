@@ -15,7 +15,9 @@ Scanner sc = new Scanner(System.in);
        public void checkPalindrome()  {
 						Scanner sc = new Scanner(System.in);
 						System.out.println("enter the number");
-						int input=sc.nextInt();
+// /Thisi  si scommnet changees by ayuhs
+	       
+	       int input=sc.nextInt();
 						int rem,temp,num=0;
 						temp=input;
 						while(input>0)
